@@ -1,0 +1,10 @@
+.header{
+    background-color: darkorange;
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
